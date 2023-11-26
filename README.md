@@ -32,7 +32,7 @@ Sección <body>: La sección <body> contiene el contenido visible de la página 
 <aside>: Esta etiqueta define un contenido relacionado pero independiente del contenido principal. 		
 <footer>: Esta etiqueta define el pie de página.
 
-Además de estas, también se utilizan etiquetas como (<h1>, <h2>, <p>, <a>, <img>, <ul>, <li>) entre otras, para definir encabezados, párrafos, enlaces, imágenes, listas y más.
+Además de estas, también se utilizan etiquetas como <h1>, <h2>, <p>, <a>, <img>, <ul>, <li>, entre otras, para definir encabezados, párrafos, enlaces, imágenes, listas y más.
 
 El script JavaScript incluido en index.html selecciona un conjunto de imágenes con la clase "carousel-image" y las muestra de forma cíclica cada 5 segundos. Esto se logra mediante la función showImage() y la función setInterval() que llama a showImage() cada 5000 milisegundos.
 Por otro lado contiene un fragmento de código que incrusta un video de YouTube en la página web. El video se muestra en un contenedor con la clase "sticky-video".
